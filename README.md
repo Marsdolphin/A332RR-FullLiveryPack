@@ -12,6 +12,7 @@ Aircraft available: https://github.com/JMaverick16/Airbus_A330
 4. Make sure you find "CES2" and "UAE" liveries in the new folder
 5. Delete the A332RR-FullLiveryPack folder
 6. Done
+
 <-------------------- CREDITS ----------------------->
 
 Liveries from FG database and original aircraft livery folder, compiled by Marsdolphin
