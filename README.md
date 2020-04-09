@@ -5,6 +5,8 @@ This is a full livery pack for the A332RR (A330-243) aircraft from the Airbus_A3
 
 Aircraft available: https://github.com/JMaverick16/Airbus_A330
 
+Disclaimer: More liveries will be added.
+
 <--------------------INSTALLATION INSTRUCTIONS ---------------------->
 1. Unzip the file
 2. Drag the A332RR folder out of A332RR-FullLiveryPack folder
